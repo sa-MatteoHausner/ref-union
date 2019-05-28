@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "1"
+    "ref": "sa-MatteoHausner/ref#node-12"
   },
   "devDependencies": {
     "mocha": "*",
     "nan": "2",
-    "ref-struct": "1",
-    "bindings": "1"
+    "ref-struct": "lxe/ref-struct#node-12",
+    "bindings": "~1.5.0"
   }
 }
